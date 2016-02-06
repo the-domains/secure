@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[secure]]></title>
         <description><![CDATA[secure]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/secure/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 11:19:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 11:19:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/secure/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ICMPTunnel - Firewall evasion]]></title>
+            <description><![CDATA[<article><h1>ICMPTunnel - Firewall evasion</h1><p>Transparently tunnel your IP traffic through ICMP echo and reply packets. 'icmptunnel' works by encapsulating your IP traffic in ICMP echo packets and sending them to your own proxy server. The proxy server decapsulates the packet and forwards the IP traffic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03aba82fa95b6c5204753aafb5d9acb1b22b0a5f.jpg"></article>]]></description>
+            <link>https://7io.net/2015/11/14/icmptunnel-firewall-evasion/</link>
+            <guid isPermaLink="false">806c3b14-a1a1-43b6-96ef-d53dba48b44b</guid>
+            <pubDate>Sat, 06 Feb 2016 11:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ZIB - The Open Tor Botnet]]></title>
-            <description><![CDATA[<article><h1>ZIB - The Open Tor Botnet</h1><p>download The Open Tor Botnet requires the installation and configuration of bitcoind: apt-get install -y git-core build-essential libssl-dev libboost-all-dev libdb5.1-dev libdb5.1++-dev libgtk2.0-dev git clone https://github.com/bitcoin/bitcoin.git cd bitcoin/src make -f makefile.unix clean; make -f makefile.unix USE_UPNP= bitcoind This bot-net is fully undetectable and bypasses all antivirus through running on top of Python27's pyinstaller, which is used for many non-Trojan computer programs. The only hypothetical possibility of detection comes from the script, however, the script contains randomized-looking data through using a randomized AES key and initialization vector, meaning this is a non-issue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c69ec0b682122a17631ee11136b6b39f608adce2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>ZIB - The Open Tor Botnet</h1><p>download The Open Tor Botnet requires the installation and configuration of bitcoind: apt-get install -y git-core build-essential libssl-dev libboost-all-dev libdb5.1-dev libdb5.1++-dev libgtk2.0-dev git clone https://github.com/bitcoin/bitcoin.git cd bitcoin/src make -f makefile.unix clean; make -f makefile.unix USE_UPNP= bitcoind This bot-net is fully undetectable and bypasses all antivirus through running on top of Python27's pyinstaller, which is used for many non-Trojan computer programs. The only hypothetical possibility of detection comes from the script, however, the script contains randomized-looking data through using a randomized AES key and initialization vector, meaning this is a non-issue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9f4aaddf23e5cad6216ca58f4ac0f84347c047d.png"></article>]]></description>
             <link>https://7io.net/2015/11/02/zib-the-open-tor-botnet/</link>
             <guid isPermaLink="false">35e3c99d-6b18-40ea-9dc9-a9290e1ebd4d</guid>
             <pubDate>Sat, 06 Feb 2016 11:18:30 GMT</pubDate>
